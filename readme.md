@@ -1,5 +1,5 @@
 # Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/rb225/calcnewupdate.svg?branch=part3)](https://app.travis-ci.com/rb225/calcnewupdate)
+[![Build Status](https://app.travis-ci.com/rb225/calcnewupdate.svg?branch=part4)](https://app.travis-ci.com/rb225/calcnewupdate)
 
 Run Pip Install
 pip install -r requirements.txt
