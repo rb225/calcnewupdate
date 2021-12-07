@@ -10,4 +10,4 @@ class Multiplication(Calculation):
         result = 1.0
         for value in self.values:
             result = result * value
-        return result
+        return round(result, 3)

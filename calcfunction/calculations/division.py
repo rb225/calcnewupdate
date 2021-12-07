@@ -7,7 +7,7 @@ class Division(Calculation):
 
     def get_result(self):
         """Performing division function for the values inheriting from the parent class"""
-        result = 1.0
-        for value in self.values:
-            result = value / result
-        return result
+        result = self.values[0]
+        for value in self.values[1:]:
+            result = result / value
+        return round(result, 3)
