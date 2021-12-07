@@ -4,10 +4,9 @@
 Run Pip Install
 pip install -r requirements.txt
 
+![img.png](img.png)
 
 
-
-pytest  --pylint --cov
 
 .pylintrc is the config for pylint
 .coveragerc is the config for coverage
